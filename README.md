@@ -1,4 +1,4 @@
-# api-js
+# api en JS Demo 
 
 Aplicación Web en Javascript, Html y Css donde se listan los usuarios registrados.
 
